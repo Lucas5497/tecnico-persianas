@@ -41,6 +41,7 @@ python3 -m http.server 8000
 - Identidade visual: preto + dourado, a partir do logo enviado pelo cliente.
 - Serviços, horário de atendimento, WhatsApp e Instagram: extraídos do site atual (tecnicopersianas.com.br).
 - Fotos dos 8 modelos de persiana rolô: enviadas pelo cliente.
+- Fotos de 6 projetos/instalações reais, na seção **Projetos realizados**: enviadas pelo cliente; as legendas (cômodo + tipo de persiana) foram escritas a partir do que aparece em cada foto.
 
 ## Ainda pendente de confirmação com o cliente
 
